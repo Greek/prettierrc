@@ -1,0 +1,22 @@
+{
+  "name": "@charted/prettier-config",
+  "version": "1.0.0",
+  "description": "My prettierrc config",
+  "main": "prettier.config.js",
+  "files": [
+    "prettier.config.js"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/greek/prettierrc.git"
+  },
+  "author": "Andreas <me@apap04.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/greek/prettierrc/issues"
+  },
+  "homepage": "https://github.com/greek/prettierrc#readme"
+}
